@@ -1,2 +1,2 @@
 # ZaliczenieJava
-Zaliczenei java projekt Marek K 21476
+Marek Kowalczyk 21476 C3
